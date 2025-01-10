@@ -12,8 +12,7 @@
                                 <div class="footer-tittle">
                                     <h4>About Us</h4>
                                     <div class="footer-pera">
-                                        <p>Heaven frucvitful doesn't cover lesser dvsays appear creeping seasons so
-                                            behold.</p>
+                                        <p>A one stop cloud platform for digitizing education processes and coordinating school's activities to enhance teaching and learning outcomes.</p>
                                     </div>
                                 </div>
                             </div>
@@ -26,11 +25,10 @@
                                 <h4>Contact Info</h4>
                                 <ul>
                                     <li>
-                                        <p>Address :Your address goes
-                                            here, your demo address.</p>
+                                        <p>Address :Plot 5 Block VIII, Off Conference Hotel Avenue, GRA, Ijebu-Ode, Ogun State, Nigeria </p>
                                     </li>
-                                    <li><a href="#">Phone : +8880 44338899</a></li>
-                                    <li><a href="#">Email : info@colorlib.com</a></li>
+                                    <li><a href="#">Phone : +2349 0398 55 429</a></li>
+                                    <li><a href="#">Email : @edutams.net</a></li>
                                 </ul>
                             </div>
 
@@ -54,7 +52,7 @@
                             <div class="footer-tittle">
                                 <h4>Newsletter</h4>
                                 <div class="footer-pera footer-pera2">
-                                    <p>Heaven fruitful doesn't over lesser in days. Appear creeping.</p>
+                                    <p>Get your school onboard...</p>
                                 </div>
                                 <!-- Form -->
                                 <div class="footer-form">
@@ -117,11 +115,11 @@
               <div class="col-xl-10 col-lg-10">
                 <div class="footer-copy-right">
                   <p>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    
                     Copyright &copy; All rights reserved | This template is made
                     with <i class="fa fa-heart" aria-hidden="true"></i> by
                     <a href="https://edutams.net" target="_blank">EduTAMS</a>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    
                   </p>
                 </div>
               </div>

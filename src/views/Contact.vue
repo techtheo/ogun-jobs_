@@ -69,14 +69,14 @@
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-home"></i></span>
                         <div class="media-body">
-                            <h3>Buttonwood, California.</h3>
-                            <p>Rosemead, CA 91770</p>
+                            <h3>OGUN, NIGERIA.</h3>
+                            <p>Plot 5 Block VIII, Off Conference Hotel Avenue, GRA, Ijebu-Ode.</p>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
-                            <h3>+1 253 565 2365</h3>
+                            <h3>+2349 0398 55 429</h3>
                             <p>Mon to Fri 9am to 6pm</p>
                         </div>
                     </div>
